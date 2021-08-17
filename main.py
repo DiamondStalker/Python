@@ -1,7 +1,7 @@
 import json
 import os
 def borrarPantalla():
-  #Para Unix/Linux/MacOS/BSD
+  #Para Unix/Linux/MacOS/BSDuuu
   if os.name == "posix":
     os.system ("clear")
   
